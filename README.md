@@ -16,14 +16,15 @@ This system allows users to interact with databases using **plain English instea
 
 Add your demo video or presentation link here.
 
+
 Example:
 
 ```
 📊 Canva Presentation:
-https://www.canva.com/your-link
+https://www.canva.com/
 
 🎬 Project Demo Video:
-https://drive.google.com/your-demo-link
+https://drive.google.com/file/d/1zMcrTQ8UZZc0bLA4SvkXdhb0PRzGJWig/view?usp=drive_link
 ```
 
 ---
@@ -116,7 +117,8 @@ Add your architecture diagram here.
 Example:
 
 ```
-images/architecture.png
+images/<img width="1905" height="1422" alt="architecture" src="https://github.com/user-attachments/assets/7933c091-2f71-4a65-8b17-369e2dfea237" />
+
 ```
 
 ---
@@ -367,5 +369,3 @@ git push origin feature-branch
 This project is licensed under the **MIT License**.
 
 ---
-
-That will make your repository **look like a professional AI project and impress recruiters.**
