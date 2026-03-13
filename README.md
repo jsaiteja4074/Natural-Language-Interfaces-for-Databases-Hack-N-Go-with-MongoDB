@@ -116,8 +116,9 @@ Add your architecture diagram here.
 
 Example:
 
+C:\Users\j sai teja\OneDrive\Desktop\Natural Language Interface For Database\Project Execution Files\images\architecture.png
 ```
-<img width="1905" height="1422" alt="architecture" src="https://github.com/user-attachments/assets/7933c091-2f71-4a65-8b17-369e2dfea237" />
+
 
 ```
 
@@ -153,7 +154,7 @@ Make sure the following are installed:
 # 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/NL2MongoDB.git
+(https://github.com/jsaiteja4074/Natural-Language-Interfaces-for-Databases-Hack-N-Go-with-MongoDB/tree/main)
 cd NL2MongoDB
 ```
 
