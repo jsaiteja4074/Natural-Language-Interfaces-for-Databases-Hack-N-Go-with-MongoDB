@@ -9,7 +9,14 @@
 A **Streamlit-based web application** that converts **natural language queries into MongoDB queries** using **LangChain, OpenAI GPT, and MongoDB**.
 
 This system allows users to interact with databases using **plain English instead of writing complex MongoDB commands**, making database access easier for **non-technical users**.
+# NATURAL LANGUAGE INTERFACE
 
+<p align="center">
+  <img src="Images/p1.png" width="700">
+</p>
+<p align="center">
+  <img src="Images/p8.png" width="700">
+</p>
 ---
 
 # 🎥 Project Demo
@@ -107,21 +114,16 @@ The project consists of the following components:
 
 * Ensures consistent runtime environment
 * Simplifies application deployment
-
+   (images/architecture.png)
 ---
-
 # 📊 Architecture Diagram
 
-Add your architecture diagram here.
-
-Example:
-
-C:\Users\j sai teja\OneDrive\Desktop\Natural Language Interface For Database\Project Execution Files\images\architecture.png
-```
-
-
-```
-
+<p align="center">
+  <img src="Project Execution Files/images/architecture.png" width="700">
+</p>
+<p align="center">
+  <img src="Images/p3.png" width="700">
+</p>
 ---
 
 # 🔄 LangGraph Agent Workflow
@@ -134,8 +136,10 @@ The LangGraph agent processes the request in multiple steps:
 4️⃣ Execute query in MongoDB
 5️⃣ Return results to the user
 
-Add workflow diagram here.
-
+# THE AGENTS WORK FLOW
+<p align="center">
+  <img src="Project Execution Files/images/agent_workflow.png" width="700">
+</p>
 ---
 
 # ⚡ Installation and Setup
@@ -317,13 +321,20 @@ Add screenshots or demo images here.
 Example sections:
 
 ### 🏠 Home Page
+<p align="center">
+  <img src="Project Execution Files/images/sample 8.png" width="700">
+</p>
 
 ### 💬 Query Input
-
+<p align="center">
+  <img src="Project Execution Files/images/Sample 7.png" width="700">
+</p>
 ### ⚙️ Generated MongoDB Query
 
 ### 📊 Output Results
-
+         <p align="center">
+  <img src="Project Execution Files/images/Sample 1.png" width="700">
+</p>
 ---
 
 # 🔮 Future Improvements
